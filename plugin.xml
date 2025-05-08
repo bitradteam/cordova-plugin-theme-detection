@@ -24,7 +24,7 @@
                 <param name="ios-package" value="ThemeDetection" />
             </feature>
         </config-file>
-        <dependency id="cordova-plugin-add-swift-support" version="*" />
+        <dependency id="cordova-plugin-add-swift-support" />
         <source-file src="src/ios/ThemeDetection.swift" />
     </platform>
 
